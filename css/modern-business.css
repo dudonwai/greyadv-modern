@@ -26,7 +26,7 @@ body {
 /* Home Page Carousel */
 
 header.carousel {
-    height: 50%;
+    height: 100%;
 }
 
 header.carousel .item,
@@ -37,12 +37,10 @@ header.carousel .carousel-inner {
 
 header.carousel .fill {
     width: 800px;
-    height: 50%;
+    height: 100%;
     background-position: center;
     vertical-align: top;
     background-size: cover;
-    padding-bottom: 10%;
-    padding-top: 10%
 }
 
 /* 404 Page Styles */
