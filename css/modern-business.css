@@ -36,10 +36,10 @@ header.carousel .carousel-inner {
 }
 
 header.carousel .fill {
-    width: 1900px;
+    width: 800px;
     height: 50%;
     background-position: center;
-    vertical-align: middle;
+    vertical-align: top;
     background-size: cover;
     padding-bottom: 10%;
     padding-top: 10%
