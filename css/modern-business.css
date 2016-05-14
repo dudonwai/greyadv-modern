@@ -39,6 +39,7 @@ header.carousel .fill {
     width: 1000px;
     height: 50%;
     background-position: center;
+    vertical-align: middle;
     background-size: cover;
     padding-bottom: 10%;
     padding-top: 10%
