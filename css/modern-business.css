@@ -36,7 +36,7 @@ header.carousel .carousel-inner {
 }
 
 header.carousel .fill {
-    width: 1000px;
+    width: 50%;
     height: 50%;
     background-position: center;
     vertical-align: middle;
