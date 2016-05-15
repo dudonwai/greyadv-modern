@@ -26,20 +26,19 @@ body {
 /* Home Page Carousel */
 
 header.carousel {
-    height: 400px;
+    height: 50%;
 }
 
 header.carousel .item,
 header.carousel .item.active,
 header.carousel .carousel-inner {
-    height: 400px;
+    height: 100%;
 }
 
 header.carousel .fill {
-    width: 800px;
-    height: 400px;
+    width: 500px;
+    height: 100px;
     background-position: center;
-    vertical-align: top;
     background-size: cover;
 }
 
